@@ -1,0 +1,100 @@
+{
+  "name": "MuseScore_General",
+  "version": "0.2.0",
+  "size": 215614036,
+  "sha256": "ee51d2c4b1525e70f19a45909c4fd7a2e26d91d115fa89dbf5a6bc413d8b9bf3",
+  "parts": [
+    {
+      "name": "MuseScore_General.sf2.part00",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part01",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part02",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part03",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part04",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part05",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part06",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part07",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part08",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part09",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part10",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part11",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part12",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part13",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part14",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part15",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part16",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part17",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part18",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part19",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part20",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part21",
+      "size": 9437184
+    },
+    {
+      "name": "MuseScore_General.sf2.part22",
+      "size": 7995988
+    }
+  ]
+}
